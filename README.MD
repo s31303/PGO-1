@@ -1,3 +1,3 @@
-<Szymon> <Wawrzyńczak>
-<nr 13>
-<s31303>
+Szymon Wawrzyńczak
+nr 13
+s31303
